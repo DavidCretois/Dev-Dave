@@ -2,7 +2,7 @@
 A site Official for Dev'Dave is a web developer 
 
 - [x] Starting my Site Web OFFICIAL
-- [ ] Starting code HTML
+- [x] Starting code HTML
 - [ ] Code CSS
 - [ ] Code JavaScript
 - [ ] Finish Design CSS 
